@@ -1,2 +1,2 @@
-# feedbackchatbot
+# feedbackbot
 Chat bot for feedback collection
